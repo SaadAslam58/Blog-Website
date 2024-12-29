@@ -10,7 +10,7 @@ const Header = () => {
       <div className="w-full mx-3 flex justify-between items-center text-white ">
         <div>
           <h1 className="text-2xl md:text-3xl font-serif font-bold transition-colors duration-150 hover:text-amber-50">
-            Saad Blog`s
+            Saad Blog’s
           </h1>
         </div>
         <div className="md:flex gap-10 text-2xl hidden transition-colors duration-150 hover:text-amber-50">

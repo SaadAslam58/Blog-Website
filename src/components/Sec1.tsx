@@ -8,7 +8,7 @@ const Sec1 = () => {
     <div className="w-[100%] min-h-screen flex flex-col justify-center bg-[url(/main5.avif)]">
       <div className="bg-[#780000] text-[#dddcdc]">
         <div className="text-left py-3 md:py-7 px-5">
-          <h1 className="text-3xl md:text-4xl font-bold">Explore the World</h1>
+          <h1 className="text-3xl md:text-4xl font-bold font-serif">Latest Blog’s...</h1>
         </div>
         <div className="text-left py-3 px-5">
           <h1 className="md:text-2xl text-center font-medium text-sm">
